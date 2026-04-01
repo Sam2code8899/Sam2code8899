@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hey 👋 I'm a Beginner Developer
+Hey 👋 I'm a Beginner Developer
 
 I'm currently learning Git and GitHub to manage my projects efficiently.
 
