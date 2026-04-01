@@ -17,8 +17,11 @@ I am a beginner developer currently learning Git and GitHub to manage projects e
 - Consistent daily learning  
 - Strong focus on improvement  
 - Dedicated to long-term growth  
+## 📫 Connect with me
+- 📧 Email: strickersameer870@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammad-sameer-5196803b6
 
----
+I’m just getting started, but I’m excited to learn and grow!
 
 This is the beginning of my development journey.
 
