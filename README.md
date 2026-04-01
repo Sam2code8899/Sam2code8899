@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-<!--
+<!--# Hey 👋 I'm a Beginner Developer
+
+I'm currently learning Git and GitHub to manage my projects efficiently.
+
+- 💻 Beginner in coding and version control
+- 📈 Focused on improving daily
+- 🚀 Goal: Become a skilled developer
+
+This is just the start of my journey!
+
 **Sam2code8899/Sam2code8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
