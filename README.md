@@ -1,13 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sameer 👋
 
-Hey 👋 I'm a Beginner Developer
+## About Me
+I am a beginner developer currently learning Git and GitHub to manage projects efficiently. I am focused on building a strong foundation in programming and version control.
 
-I'm currently learning Git and GitHub to manage my projects efficiently.
+## Skills & Learning
+- Basic understanding of coding concepts  
+- Learning Git and GitHub  
+- Version control fundamentals  
 
-- 💻 Beginner in coding and version control
-- 📈 Focused on improving daily
-- 🚀 Goal: Become a skilled developer
+## Goals
+- Improve coding skills consistently  
+- Build and manage real-world projects  
+- Become a skilled software developer  
 
-This is just the start of my journey!
+## Work Ethic
+- Consistent daily learning  
+- Strong focus on improvement  
+- Dedicated to long-term growth  
+
+---
+
+This is the beginning of my development journey.
 
 
