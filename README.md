@@ -10,5 +10,4 @@ I'm currently learning Git and GitHub to manage my projects efficiently.
 
 This is just the start of my journey!
 
-**Sam2code8899/Sam2code8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
